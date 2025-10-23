@@ -39,9 +39,9 @@ Published under the **Vallance Industries Research License v 1.2**
 ### 📖 Series Information
 **Da Valanca Series Volumes (Planned):**
 1. *Turin Shroud Studies* (2025)  
-2. *The Last Supper Symmetries* (2026)  
-3. *Codices & Atlantean Mechanics* (2027)  
-4. *Universal Cipher Edition* (2028)  
+2. *The Last Supper Symmetries* (2025)  
+3. *Codices & Atlantean Mechanics* (2026)  
+4. *Universal Cipher Edition* (2027)  
 
 ---
 
@@ -56,8 +56,10 @@ Published under the **Vallance Industries Research License v 1.2**
 ---
 
 **Repository Maintainer :** R. S. Vallance  
-Contact : [research@vallance-industries.org](mailto:research@vallance-industries.org)  
-Twitter / X : [@DaValancaProject](https://x.com/DaValancaProject)
+Contact:richievallance@outlook.com 
+TikTok : @leodavinci
+Twitter / X : @richievallance
+(https://x.com/richievallance)
 
 ---
 
