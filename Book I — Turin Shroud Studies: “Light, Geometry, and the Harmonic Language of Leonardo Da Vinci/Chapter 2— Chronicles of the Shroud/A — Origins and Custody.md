@@ -127,5 +127,3 @@ With provenance and custodial integrity established, the research proceeds to Ch
 
 
 ---
-
-Would you like me to roll straight into Chapter 2 B (a–z) next, using this same fully expanded, publication-ready format?
