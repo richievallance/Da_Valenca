@@ -1,4 +1,5 @@
 C — Optical Curiosities of the Renaissance
+
 a Development of Perspective
 Renaissance optics began with geometry. From Brunelleschi’s experiments at the Florentine Baptistry to Alberti’s De Pictura, the vanishing-point became the mathematical proof that sight could be codified. This translation of vision into proportion laid the groundwork for later photonic reasoning: light was not mystical radiance but measurable trajectory.
 
